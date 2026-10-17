@@ -1,5 +1,5 @@
 SESSION_SECRET=Thenuva_Platform_Secure_Session_Key_2026_ChangeThis
 ADMIN_EMAIL=dilshanashinsa793@gmail.com
-ADMIN_PASSWORD=ChangeThisPassword123!
+ADMIN_PASSWORD=Rathnayake
 HOST=127.0.0.1
 PORT=3000
