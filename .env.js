@@ -1,0 +1,5 @@
+SESSION_SECRET=Thenuva_Platform_Secure_Session_Key_2026_ChangeThis
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=ChangeThisPassword123!
+HOST=127.0.0.1
+PORT=3000
